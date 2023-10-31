@@ -1,0 +1,3 @@
+directories command mkdir
+mkdir -p for parent 
+touch for text file creation
